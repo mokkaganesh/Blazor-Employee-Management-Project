@@ -1,0 +1,32 @@
+.leave-requests-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .leave-requests-table th, .leave-requests-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .leave-requests-table th {
+        background-color: #f2f2f2;
+        color: black;
+    }
+
+    .leave-requests-table button {
+        padding: 5px 10px;
+        font-size: 14px;
+        background-color: #28a745;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+        .leave-requests-table button:hover {
+            background-color: #218838;
+            transform: scale(1.05);
+        }

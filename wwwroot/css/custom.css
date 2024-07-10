@@ -1,0 +1,28 @@
+.login-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.login-box {
+    width: 40%;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+    .login-box:hover {
+        transform: scale(1.05);
+    }
+
+.admin {
+    background-color: #f8d7da;
+}
+
+.user {
+    background-color: #d1ecf1;
+}

@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeManagement
+build_property.RootNamespace = EmployeeManagement
+build_property.ProjectDir = E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/Chatbot.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhdGJvdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/ChatBots.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhdEJvdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/DepartmentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/EmployeePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/EmployeeProfilePage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVQcm9maWxlUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/LeavesRequested.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhdmVzUmVxdWVzdGVkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/NewLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3TG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/Signup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbnVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Shared/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-q1aod8t469
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gu6h5vnoip
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Downloads/project/SRIHARI_POC_HCLtech-main/SRIHARI POC HCL/EmployeeManagement/EmployeeManagement/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

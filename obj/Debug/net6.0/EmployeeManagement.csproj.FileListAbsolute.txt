@@ -1,0 +1,347 @@
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cache
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cs
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.staticwebassets.runtime.json
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.JSInterop.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\MudBlazor.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.pdb
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\Employee.61744648.Up2Date
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+F:\EmployeeManagement-master\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EmployeeManagement-master\EmployeeManagement\bin\Debug\net6.0\BCrypt.Net.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.staticwebassets.runtime.json
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\BCrypt.Net.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.JSInterop.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\MudBlazor.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.IO.Pipelines.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.pdb
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cache
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cs
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\Employee.61744648.Up2Date
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+F:\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+F:\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.staticwebassets.runtime.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\BCrypt.Net.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\MudBlazor.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.pdb
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\Employee.61744648.Up2Date
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech[1]\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.Development.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\appsettings.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.staticwebassets.runtime.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.exe
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.deps.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.runtimeconfig.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.pdb
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\BCrypt.Net.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Humanizer.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.JSInterop.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\MudBlazor.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\bin\Debug\net6.0\EmployeeManagement.Shared.pdb
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.AssemblyInfo.cs
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.RazorAssemblyInfo.cs
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.build.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.development.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeManagement.bundle.scp.css
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\Employee.61744648.Up2Date
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\refint\EmployeeManagement.dll
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.pdb
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\EmployeeManagement.genruntimeconfig.cache
+E:\Downloads\project\SRIHARI_POC_HCLtech-main\SRIHARI POC HCL\EmployeeManagement\EmployeeManagement\obj\Debug\net6.0\ref\EmployeeManagement.dll

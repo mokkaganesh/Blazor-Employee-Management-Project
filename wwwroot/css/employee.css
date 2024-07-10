@@ -1,0 +1,196 @@
+.employee-profile {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+}
+
+    .employee-profile h2 {
+        color: #333;
+    }
+
+    .employee-profile p {
+        font-size: 16px;
+        color: #555;
+    }
+
+    .employee-profile strong {
+        color: #000;
+    }
+
+.leaves-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .leaves-table th, .leaves-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .leaves-table th {
+        background-color: #f2f2f2;
+        color: black;
+    }
+
+.apply-leave-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+    .apply-leave-button:hover {
+        background-color: #0056b3;
+        transform: scale(1.05);
+    }
+
+.apply-leave-form {
+    margin-top: 20px;
+}
+
+    .apply-leave-form input {
+        padding: 10px;
+        font-size: 16px;
+        margin-right: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .apply-leave-form button {
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+        .apply-leave-form button:first-of-type {
+            background-color: #28a745;
+            color: white;
+            margin-right: 10px;
+        }
+
+            .apply-leave-form button:first-of-type:hover {
+                background-color: #218838;
+                transform: scale(1.05);
+            }
+
+        .apply-leave-form button:last-of-type {
+            background-color: #dc3545;
+            color: white;
+        }
+
+            .apply-leave-form button:last-of-type:hover {
+                background-color: #c82333;
+                transform: scale(1.05);
+            }
+.employee-profile {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+}
+
+    .employee-profile h2 {
+        color: #333;
+    }
+
+    .employee-profile p {
+        font-size: 16px;
+        color: #555;
+    }
+
+    .employee-profile strong {
+        color: #000;
+    }
+
+.leaves-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .leaves-table th, .leaves-table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .leaves-table th {
+        background-color: #f2f2f2;
+        color: black;
+    }
+
+.apply-leave-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+    .apply-leave-button:hover {
+        background-color: #0056b3;
+        transform: scale(1.05);
+    }
+
+.apply-leave-form {
+    margin-top: 20px;
+}
+
+    .apply-leave-form input {
+        padding: 10px;
+        font-size: 16px;
+        margin-right: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    .apply-leave-form button {
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+
+        .apply-leave-form button:first-of-type {
+            background-color: #28a745;
+            color: white;
+            margin-right: 10px;
+        }
+
+            .apply-leave-form button:first-of-type:hover {
+                background-color: #218838;
+                transform: scale(1.05);
+            }
+
+        .apply-leave-form button:last-of-type {
+            background-color: #dc3545;
+            color: white;
+        }
+
+            .apply-leave-form button:last-of-type:hover {
+                background-color: #c82333;
+                transform: scale(1.05);
+            }

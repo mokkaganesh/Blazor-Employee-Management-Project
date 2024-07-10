@@ -1,0 +1,290 @@
+﻿@page "/chatbots"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floating Chatbot UI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .chat-container {
+            width: 400px;
+            height: 500px;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            background-color: #fff;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+
+        .header {
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+            .header .buttons {
+                display: flex;
+                gap: 10px;
+            }
+
+            .header button {
+                background: none;
+                border: none;
+                color: white;
+                font-size: 16px;
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+            }
+
+                .header button i {
+                    margin-right: 5px;
+                }
+
+        .chat-box {
+            padding: 10px;
+            flex-grow: 1;
+            overflow-y: auto;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .input-area {
+            display: flex;
+            padding: 10px;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+
+            .input-area input {
+                flex: 1;
+                padding: 10px;
+                border: 1px solid #ccc;
+                border-radius: 5px;
+                margin-right: 10px;
+            }
+
+            .input-area button {
+                padding: 10px;
+                background-color: #007bff;
+                color: #fff;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+        .chat-toggle-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            font-size: 24px;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .message {
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 10px;
+            max-width: 80%;
+            position: relative;
+        }
+
+            .message.user {
+                background-color: #d1ecf1;
+                align-self: flex-end;
+                text-align: right;
+                padding-left: 20px;
+            }
+
+            .message.assistant {
+                background-color: #f8d7da;
+                align-self: flex-start;
+                text-align: left;
+                padding-right: 20px;
+            }
+
+        .timestamp {
+            font-size: 0.8em;
+            color: #888;
+            display: block;
+            margin-top: 5px;
+            text-align: right;
+        }
+
+        .message.assistant .timestamp {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <button class="chat-toggle-button" onclick="toggleChat()">💬</button>
+    <div class="chat-container" id="chatContainer">
+        <div class="header">
+            <div>Chatbot</div>
+            <div class="buttons">
+                <button onclick="commitAction()">
+                    <i class="fas fa-check" aria-hidden="true"></i>
+                    <span class="sr-only">Commit</span>
+                </button>
+                <button onclick="closeChat()">
+                    <i class="fas fa-times" aria-hidden="true"></i>
+                    <span class="sr-only">Cancel</span>
+                </button>
+            </div>
+        </div>
+        <div class="chat-box" id="chatBox"></div>
+        <div class="input-area">
+            <input type="text" id="userInput" placeholder="Type your query here...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        let chatHistory = [];
+
+        function toggleChat() {
+            const chatContainer = document.getElementById('chatContainer');
+            chatContainer.style.display = chatContainer.style.display === 'none' || chatContainer.style.display === '' ? 'flex' : 'none';
+        }
+
+        function closeChat() {
+            const chatContainer = document.getElementById('chatContainer');
+            chatContainer.style.display = 'none';
+        }
+
+        async function commitAction() {
+            alert("Commit action triggered!");
+            // Implement your commit functionality here
+            try {
+                // Parse the connection string
+                const connectionString = "Server=DESKTOP-JNNAJ9C\\SQLEXPRESS; Database=EmployeeDb; Trusted_Connection=True;";
+                const connectionOptions = {
+                    "server": connectionString.split(';')[0].split('=')[1],
+                    "database": connectionString.split(';')[1].split('=')[1],
+                    "trustedConnection": connectionString.split(';')[2].split('=')[1] === 'True'
+                };
+
+                // Establish a connection to the database
+                const sql = require('mssql');
+                await sql.connect(connectionOptions);
+
+                // Query the database for data
+                const result = await sql.query`SELECT * FROM Employee`; // Replace 'YourTableName' with the actual table name
+                console.log(result);
+                // Close the connection
+                await sql.close();
+
+                // Process the retrieved data
+                const chatBox = document.getElementById('chatBox');
+                result.recordset.forEach(row => {
+                    const timestamp = new Date().toLocaleTimeString();
+                    const botMessage = document.createElement('div');
+                    botMessage.className = 'message assistant';
+                    botMessage.innerHTML = `${row.Content}<span class="timestamp">${timestamp}</span>`; // Assuming 'Content' is the column name containing the message content
+                    chatBox.appendChild(botMessage);
+
+                    // Add bot response to chat history
+                    chatHistory.push({ content: row.Content, role: "assistant", timestamp: timestamp });
+                });
+
+                // Scroll chat box to the bottom
+                chatBox.scrollTop = chatBox.scrollHeight;
+            } catch (error) {
+                console.error('Error:', error);
+                // Handle error accordingly
+            }
+
+
+        }
+
+        async function sendMessage() {
+            const inputBox = document.getElementById('userInput');
+            const chatBox = document.getElementById('chatBox');
+            const message = inputBox.value.trim();
+            if (message) {
+                const timestamp = new Date().toLocaleTimeString();
+
+                // Display user's message
+                const userMessage = document.createElement('div');
+                userMessage.className = 'message user';
+                userMessage.innerHTML = `${message}<span class="timestamp">${timestamp}</span>`;
+                chatBox.appendChild(userMessage);
+                inputBox.value = '';
+
+                // Add user message to chat history
+                chatHistory.push({ content: message, role: "user" });
+
+                // Call AI21 Studio API
+                const responseMessage = await getAI21Response(chatHistory);
+
+                // Display response message
+                const botMessage = document.createElement('div');
+                botMessage.className = 'message assistant';
+                botMessage.innerHTML = `${responseMessage}<span class="timestamp">${timestamp}</span>`;
+                chatBox.appendChild(botMessage);
+
+                // Add bot response to chat history
+                chatHistory.push({ content: responseMessage, role: "assistant" });
+
+                // Scroll chat box to the bottom
+                chatBox.scrollTop = chatBox.scrollHeight;
+            }
+        }
+        async function getAI21Response(messages) {
+            try {
+                const response = await fetch("https://api.ai21.com/studio/v1/chat/completions", {
+                    headers: {
+                        "Authorization": "Bearer 2fmMvU7iX32MnTRBmhXApM5AJSaTCQ8j",
+                        "Content-Type": "application/json"
+                    },
+                    method: "POST",
+                    body: JSON.stringify({
+                        model: "jamba-instruct-preview",
+                        messages: messages,
+                        n: 1,
+                        max_tokens: 1024,
+                        temperature: 0.7,
+                        top_p: 1,
+                        stop: []
+                    })
+                });
+
+                const data = await response.json();
+                return data.choices[0].message.content;
+            } catch (error) {
+                console.error('Error:', error);
+                return 'Sorry, I am having trouble understanding your request.';
+            }
+        }
+    </script>
+</body>
+</html>

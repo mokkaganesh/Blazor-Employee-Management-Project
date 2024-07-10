@@ -1,0 +1,36 @@
+@page "/login/{role}"
+@using Microsoft.AspNetCore.Components.Routing
+@inject NavigationManager Navigation
+
+@code {
+    [Parameter]
+    public string Role { get; set; }
+
+    protected override void OnParametersSet()
+    {
+        if (string.IsNullOrEmpty(Role) || (Role != "admin" && Role != "user"))
+        {
+            Navigation.NavigateTo("/");
+        }
+        else if (Role == "user")
+        {
+            Navigation.NavigateTo("/logins");
+        }
+    }
+
+    private void NavigateTo(string path)
+    {
+        Navigation.NavigateTo(path);
+    }
+}
+
+@if (Role == "admin")
+{
+    <h3>Admin Dashboard</h3>
+    <div class="admin-grid">
+        <button class="admin-button" @onclick='() => NavigateTo("/employees")'>Employees</button>
+        <button class="admin-button" @onclick='() => NavigateTo("/departments")'>Departments</button>
+        <button class="admin-button" @onclick='() => NavigateTo("/chatbot")'>Chatbot</button>
+        <button class="admin-button" @onclick='() => NavigateTo("/chatbots")'>AI-Chatbot</button>
+    </div>
+}

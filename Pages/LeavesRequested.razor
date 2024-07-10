@@ -1,0 +1,74 @@
+@page "/leavesrequested"
+@using Microsoft.EntityFrameworkCore
+@inject ApplicationDbContext DbContext
+
+<h3>Leave Requests</h3>
+
+@code {
+    private List<LeaveRequestViewModel> leaveRequests;
+
+    protected override async Task OnInitializedAsync()
+    {
+        leaveRequests = await DbContext.EmployeeLeave
+            .Where(el => !el.Status)
+            .OrderByDescending(el => el.EmployeeLeaveId)
+            .Select(el => new LeaveRequestViewModel
+            {
+                EmployeeLeaveId = el.EmployeeLeaveId,
+                EmployeeId = el.EmployeeId,
+                EmployeeName = el.Employee.FirstName + " " + el.Employee.LastName,
+                LeaveDescription = el.LeaveDescription
+            })
+            .ToListAsync();
+    }
+
+    private async Task ApproveLeave(int leaveId)
+    {
+        var leave = await DbContext.EmployeeLeave.FindAsync(leaveId);
+        if (leave != null)
+        {
+            leave.Status = true;
+            await DbContext.SaveChangesAsync();
+            leaveRequests.RemoveAll(l => l.EmployeeLeaveId == leaveId);
+        }
+    }
+
+    private class LeaveRequestViewModel
+    {
+        public int EmployeeLeaveId { get; set; }
+        public int EmployeeId { get; set; }
+        public string EmployeeName { get; set; }
+        public string LeaveDescription { get; set; }
+    }
+}
+
+@if (leaveRequests == null || !leaveRequests.Any())
+{
+    <p>No pending leave requests.</p>
+}
+else
+{
+    <table class="leave-requests-table">
+        <thead>
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Name</th>
+                <th>Leave Description</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var leave in leaveRequests)
+            {
+                <tr>
+                    <td>@leave.EmployeeId</td>
+                    <td>@leave.EmployeeName</td>
+                    <td>@leave.LeaveDescription</td>
+                    <td>
+                        <button @onclick="() => ApproveLeave(leave.EmployeeLeaveId)">Approve</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

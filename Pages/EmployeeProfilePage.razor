@@ -1,0 +1,101 @@
+@page "/employeepage/{id:int}"
+@using Microsoft.EntityFrameworkCore
+@inject ApplicationDbContext DbContext
+@inject NavigationManager Navigation
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private EmployeeManagement.Shared.Employee employee;
+    private List<EmployeeManagement.Shared.EmployeeLeave> employeeLeaves;
+
+    private string newLeaveDescription;
+    private bool isLeaveApplying = false;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        employee = await DbContext.Employee
+                                  .Include(e => e.Department)
+                                  .FirstOrDefaultAsync(e => e.ManNumber == Id);
+
+        if (employee == null)
+        {
+            Navigation.NavigateTo("/logins");
+            return;
+        }
+
+        employeeLeaves = await DbContext.EmployeeLeave
+                                        .Where(el => el.EmployeeId == employee.EmployeeId)
+                                        .ToListAsync();
+    }
+
+    private async Task ApplyLeave()
+    {
+        var newLeave = new EmployeeManagement.Shared.EmployeeLeave
+        {
+            EmployeeId = employee.EmployeeId,
+            LeaveDescription = newLeaveDescription,
+            Status = false
+        };
+
+        DbContext.EmployeeLeave.Add(newLeave);
+        await DbContext.SaveChangesAsync();
+
+        employeeLeaves.Add(newLeave);
+        newLeaveDescription = string.Empty;
+        isLeaveApplying = false;
+    }
+}
+
+@if (employee == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <div class="employee-profile">
+        <h2>@employee.FirstName @employee.LastName</h2>
+        <p><strong>Man Number:</strong> @employee.ManNumber</p>
+        <p><strong>Department:</strong> @employee.Department.DepartmentName</p>
+
+        <h3>Leaves</h3>
+        @if (employeeLeaves == null || !employeeLeaves.Any())
+        {
+            <p>No leaves taken.</p>
+        }
+        else
+        {
+            <table class="leaves-table">
+                <thead>
+                    <tr>
+                        <th>Leave Description</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var leave in employeeLeaves)
+                    {
+                        <tr>
+                            <td>@leave.LeaveDescription</td>
+                            <td>@(leave.Status ? "Approved" : "Pending")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+        @if (isLeaveApplying)
+        {
+            <div class="apply-leave-form">
+                <input @bind="newLeaveDescription" placeholder="Leave Description" />
+                <button @onclick="ApplyLeave">Submit</button>
+                <button @onclick="() => isLeaveApplying = false">Cancel</button>
+            </div>
+        }
+        else
+        {
+            <button class="apply-leave-button" @onclick="() => isLeaveApplying = true">Apply for Leave</button>
+        }
+    </div>
+}
